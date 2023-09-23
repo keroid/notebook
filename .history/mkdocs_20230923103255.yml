@@ -3,5 +3,4 @@ site_url: https://keroid.github.io/notebook/
 nav:
   - Home: index.md
   - About: about.md
-theme: material
 
